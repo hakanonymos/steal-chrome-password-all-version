@@ -8,6 +8,9 @@ receive data by email
 
 download and install Python > 3.0
 
+https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe
+
+
  after install Python,open your cmd and install Dependencies
 
  pip install pywin32
