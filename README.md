@@ -29,7 +29,7 @@ pip install pyinstaller
 pyinstaller password_stealer.py -F -w
 
 
-password_stealer is your file python,you can change the name
+password_stealer is your python file,you can change the name
 
 # Demo Video Youtube
 
