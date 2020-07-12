@@ -25,18 +25,18 @@ pip install cryptography
 pip install pyinstaller
 
 
-# to build with .exe ,run :
+* to build with .exe ,run :
 
 pyinstaller password_stealer.py -F -w
 
 
 password_stealer is your python file,you can change the name
 
-# Demo Video Youtube
+* demo Video Youtube
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
-# Other tools ( Version Professionel )
+* Version Professionel 
 
 ![steal password](https://user-images.githubusercontent.com/30985149/87238256-e4b6b280-c3ef-11ea-8051-091d6c813cd8.png)
 
@@ -51,9 +51,9 @@ Stealing passwords and cookies from web browsers
 
 https://shoppy.gg/@hakanonymos
 
-# Happy Hacking
+* Happy Hacking
 
-# Contact 
+* Contact 
 
 hakanonymos@hotmail.com
 
