@@ -32,7 +32,7 @@ pyinstaller password_stealer.py -F -w
 
 password_stealer is your python file,you can change the name
 
-* demo Video Youtube
+# demo Video Youtube
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
@@ -51,9 +51,9 @@ Stealing passwords and cookies from web browsers
 
 https://shoppy.gg/@hakanonymos
 
-* Happy Hacking
+Happy Hacking
 
-* Contact 
+# Contact 
 
 hakanonymos@hotmail.com
 
