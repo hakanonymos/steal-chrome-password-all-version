@@ -1,7 +1,5 @@
 # steal-chrome-password-all-version
 
-![steal password](https://user-images.githubusercontent.com/30985149/87238256-e4b6b280-c3ef-11ea-8051-091d6c813cd8.png)
-
 
 Python steal chrome password all version are supported FUD 100 %
 
@@ -39,6 +37,9 @@ password_stealer is your python file,you can change the name
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
 # Other tools ( Version Professionel )
+
+![steal password](https://user-images.githubusercontent.com/30985149/87238256-e4b6b280-c3ef-11ea-8051-091d6c813cd8.png)
+
 
 Stealing passwords and cookies from web browsers
 
