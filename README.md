@@ -35,10 +35,23 @@ password_stealer is your python file,you can change the name
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
+# Other tools ( Version Professionel )
+
+Stealing passwords and cookies from web browsers
+
+* Chrome
+* Microsoft Edge
+* Firefox
+* Opera
+* yandex
+
+https://shoppy.gg/@hakanonymos
+
 # Happy Hacking
 
 # Contact 
 
 hakanonymos@hotmail.com
 
+Whatsapp: +1 315 636 6596
 
