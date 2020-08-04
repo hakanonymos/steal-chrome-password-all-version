@@ -12,7 +12,7 @@ download and install Python > 3.0
 https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
 
- after install Python
+ after install Python :
  
  ## simple installation dependances :
  
