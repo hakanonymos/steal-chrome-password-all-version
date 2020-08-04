@@ -50,7 +50,7 @@ pip install pyinstaller
 
 pyinstaller email.py -F -w
 
-*demo Video Youtube ( video deleted )
+# demo Video Youtube ( video deleted )
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
