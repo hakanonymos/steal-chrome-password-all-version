@@ -5,9 +5,7 @@ Python steal chrome password all version are supported FUD 100 %
 
 receive data by email
 
-# Upate simple installation depandance
-
-# Dependencies
+# depandance
 
 download and install Python > 3.0
 
@@ -16,7 +14,7 @@ https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
  after install Python
  
- # fast installation dependances :
+ # simple installation dependances :
  
  test steal password with local script
  
