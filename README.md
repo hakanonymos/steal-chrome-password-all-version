@@ -25,7 +25,7 @@ https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
  if it working
  
  
-open email.py 
+open my_email.py
 
 put your gmail email (and password ), email sender
 
@@ -48,7 +48,7 @@ pip install pyinstaller
 
 * to build with .exe ,run :
 
-pyinstaller email.py -F -w
+pyinstaller my_email.py -F -w
 
 ## demo Video Youtube ( video deleted )
 
