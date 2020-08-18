@@ -54,7 +54,7 @@ pyinstaller email.py -F -w
 
 https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
 
-* Version Professionel 
+* Version Professionel ( another script 100 % fud )
 
 ![steal password](https://user-images.githubusercontent.com/30985149/87238256-e4b6b280-c3ef-11ea-8051-091d6c813cd8.png)
 
