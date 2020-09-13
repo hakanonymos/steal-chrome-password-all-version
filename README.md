@@ -52,8 +52,6 @@ pyinstaller my_email.py -F -w
 
 ## demo Video Youtube ( video deleted )
 
-https://www.youtube.com/watch?v=EGkzVcd26I8&feature=youtu.be
-
 * Version Professionel ( another script 100 % fud )
 
 ![steal password](https://user-images.githubusercontent.com/30985149/87238256-e4b6b280-c3ef-11ea-8051-091d6c813cd8.png)
@@ -74,6 +72,8 @@ Happy Hacking
 ## Contact 
 
 hakanonymos@hotmail.com
+
+instagram : hakanonymos
 
 Whatsapp: +1 315 636 6596
 
