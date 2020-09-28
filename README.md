@@ -67,7 +67,7 @@ Stealing passwords and cookies from web browsers
 * Opera
 * yandex
 
-https://shoppy.gg/@hakanonymos
+https://shoppy.gg/product/VrRKRsK
 
 Happy Hacking
 
