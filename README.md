@@ -50,7 +50,9 @@ pip install pyinstaller
 
 pyinstaller my_email.py -F -w
 
-## demo Video Youtube ( video deleted )
+## demo Video Facebook( manuel installation )
+
+https://www.facebook.com/102313318301415/videos/3262395040481000/
 
 * Version Professionel ( another script 100 % fud )
 
