@@ -50,9 +50,6 @@ pip install pyinstaller
 
 pyinstaller my_email.py -F -w
 
-## demo Video Facebook( manuel installation )
-
-https://www.facebook.com/102313318301415/videos/3262395040481000/
 
 * Version Professionel ( another script 100 % fud )
 
@@ -68,6 +65,11 @@ Stealing passwords and cookies from web browsers
 * yandex
 
 https://shoppy.gg/product/VrRKRsK
+
+## demo Video Facebook( manuel installation )
+
+https://www.facebook.com/102313318301415/videos/3262395040481000/
+
 
 Happy Hacking
 
