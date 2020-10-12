@@ -79,5 +79,7 @@ hakanonymos@hotmail.com
 
 instagram : hakanonymos
 
-Whatsapp: +1 315 636 6596
+skype : hakanonymos
+
+Whatsapp: +1 336 415 3487
 
