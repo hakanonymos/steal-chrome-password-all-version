@@ -74,7 +74,7 @@ https://www.facebook.com/102313318301415/videos/3262395040481000/
 
 ## Demo Youtube video (simple installation )
 
-https://youtu.be/p9qzxKqj-3A
+https://www.youtube.com/watch?v=KE-DUxuRVeo
 
 Happy Hacking
 
