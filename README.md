@@ -66,6 +66,9 @@ Stealing passwords and cookies from web browsers
 
 https://shoppy.gg/product/VrRKRsK
 
+## Demo Video YOUTUBE (send info to discord account login with cookie )
+
+https://youtu.be/kzTg2bQ2RlU
 
 ## demo Video Facebook( manuel installation )
 
