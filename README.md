@@ -70,11 +70,11 @@ https://shoppy.gg/product/VrRKRsK
 
 https://youtu.be/kzTg2bQ2RlU
 
-## demo Video Facebook( manuel installation )
+## demo Facebook( manuel installation )
 
 https://www.facebook.com/102313318301415/videos/3262395040481000/
 
-## Demo Youtube video (simple installation )
+## Demo Youtube (simple installation )
 
 https://www.youtube.com/watch?v=KE-DUxuRVeo
 
