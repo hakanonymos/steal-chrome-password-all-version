@@ -80,15 +80,10 @@ https://www.youtube.com/watch?v=KE-DUxuRVeo
 
 Happy Hacking 
 
-## Teste Script without install python
-
-https://github.com/hakanonymos/steal-chrome-password-all-version/releases/tag/V1
-
 ## Contact 
 
 hakanonymos@hotmail.com
 
 ICQ,Skype,instagram : hakanonymos
 
-Whatsapp: +1 336 415 3487
 
