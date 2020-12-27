@@ -63,8 +63,7 @@ Stealing passwords and cookies from web browsers
 * Opera
 * yandex
 
-
-https://shoppy.gg/product/VrRKRsK
+https://shoppy.gg/product/UcZcKPu
 
 ## Demo Youtube (password and cookie )
 
