@@ -79,6 +79,9 @@ https://www.youtube.com/watch?v=KE-DUxuRVeo
 
 https://www.facebook.com/102313318301415/videos/3262395040481000/
 
+## other similar project
+
+https://github.com/hakanonymos/steal-cookie-chrome-firefox
 
 Happy Hacking 
 
